@@ -12,8 +12,8 @@ It uses HTML, CSS, & JavaScript, and will be compatible with Mac, Linux, and Win
 - GitKraken
 
 ### Relevant Links
-[Electron Quick-Start Guide] (https://electronjs.org/docs/tutorial/first-app)
-[Defeating Electron] (https://medium.com/@felixrieseberg/defeating-electron-e1464d075528)
+- [Electron Quick-Start Guide] (https://electronjs.org/docs/tutorial/first-app)
+- [Defeating Electron] (https://medium.com/@felixrieseberg/defeating-electron-e1464d075528)
 
 ### Arguments Against Electron
 Opponents of Electron say that “it’s too memory intensive.” Or, “It hogs the CPU.” Or even better yet, “It runs the entirety of the Google Chrome engine in every window.”
